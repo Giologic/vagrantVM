@@ -1,0 +1,4 @@
+/.vagrant
+/static
+*.pyc
+/gridlock/settings/local.py
